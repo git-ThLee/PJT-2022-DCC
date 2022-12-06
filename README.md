@@ -1,6 +1,11 @@
 # 2022-DCC
 ![image](https://user-images.githubusercontent.com/45033215/193849184-c35fe0f9-c1bd-41ec-8418-c697fa5a42b6.png)
 
+# 수상 날짜 및 결과
+
+> 날짜 : 11월 26일(토)
+> 결과 : 우수상 
+
 ### 멤버
 |[박종원](https://github.com/qwqw82000)|[박민영](https://github.com/jellimin)|[이태훈](https://github.com/git-ThLee)|[전상민](https://github.com/sangmandu)|[조소연](https://github.com/soyeoncho00)|
 |:---:|:---:|:---:|:---:|:---:|
