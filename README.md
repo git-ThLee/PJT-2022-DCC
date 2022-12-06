@@ -1,6 +1,8 @@
 # 2022-DCC
 ![image](https://user-images.githubusercontent.com/45033215/193849184-c35fe0f9-c1bd-41ec-8418-c697fa5a42b6.png)
 
+# [원본 깃허브](https://github.com/sangmandu/2022-DCC)
+
 # 수상 날짜 및 결과
 
 > 날짜 : 11월 26일(토)  
